@@ -1,0 +1,9 @@
+sb_rep
+sparse
+data
+*.npy
+.bcf
+.fdb_latexmk
+.fls
+.run.xml
+
